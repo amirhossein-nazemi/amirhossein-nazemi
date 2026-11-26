@@ -25,7 +25,7 @@ I enjoy building practical labs, solving technical problems, and documenting wha
 - **VoIP:** Issabel PBX, SIP Trunking
 - **Systems:** Linux, Windows, IT Support, Server Virtualizaion
 - **Tools:** Cisco Packet Tracer, Wireshark, Pnet-LAB
-- **Cybersecurity:**Network Security Fundamentals, System Hardening
+- **Cybersecurity:** Network Security Fundamentals, System Hardening
 
 ---
 
