@@ -70,7 +70,7 @@ Future Repositories will cover :
 
 ---
 
-## 👨‍🏫 Teaching * Knowledge Sharing
+## 👨‍🏫 Teaching & Knowledge Sharing
 
 - Teaching Cisco Networking and CCNA fundamentals
 - Designing hands-on networking labs
