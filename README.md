@@ -58,15 +58,19 @@ I'm continuously developing my skills through hands-on projects and technical do
 
 ## 📂 Projects & Labs
 
-I'm currently organizing and documenting my technical projects.
+A collection of hands-on projects, technical documentation, and real-world inspired labs.
 
-Future Repositories will cover :
+### 🌐 Network Engineering
+- [Cisco_Networking_Labs](https://github.com/amirhossein-nazemi/cisco-networking-labs)
 
-- Cisco Networking Labs
-- MikroTik RouterOS labs
-- VoIP & Issabel Projects
-- Linux & Infrastructure Labs
-- Cybersecurity Learning Labs
+### 🔧 IT Infrastructure
+- Mikrotik RouterOS Labs *(coming Soon)*
+- VoIP & Issabel Labs *(Coming Soon)*
+- Linux, Windows & Virtualization *(Coming Soon)*
+
+### 🛡️ Cybersecurity
+- Security & Defensive Labs *(Coming Soon)*
+- Multi-Vendor Enterprise Labs *(Coming Soon)*
 
 ---
 
